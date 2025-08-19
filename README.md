@@ -70,3 +70,6 @@ Data Validation & Cross-checking between SQL & DAX
 Data Visualization & KPI reporting
 
 Outcome: A complete end-to-end analysis workflow using SQL, Power Query, and Power BI that delivers valuable insights into loan portfolio performance and borrower risk.
+
+🔗 Connect with Me
+📌 Check out my LinkedIn post about this project: [Bank Loan Report Analysis on LinkedIn](https://www.linkedin.com/posts/harshada-desai-789624298_sql-powerbi-dax-activity-7363463858461511680-abdG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEf-yVkBiEVX83fIoO-6DYttS_RqzHZhyww)
